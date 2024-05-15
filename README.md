@@ -1,5 +1,7 @@
 # RAG-system-using-LLama2-with-llama_index
 
+This project showcases the development of a Retrieval-Augmented Generation (RAG) system using the Llama2 model and the Llama index within the Hugging Face ecosystem. The dataset for this RAG system consists of a speech delivered by President Joe Biden, covering a range of topics.
+
     Setup:
         Installation of necessary Python packages like pypdf, transformers, einops, accelerate, langchain, bitsandbytes, and various llama_index related packages. These are foundational libraries that provide support for PDF manipulation, machine learning models, and efficient data handling.
 
